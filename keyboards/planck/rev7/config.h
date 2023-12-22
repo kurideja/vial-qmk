@@ -51,3 +51,7 @@
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
 
+/*
+ * WS2812 Underglow Matrix options
+ */
+#define RGB_MATRIX_LED_COUNT 9
